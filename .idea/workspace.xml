@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e73a8f9-a2e0-4bec-9b90-0e32c2a3d3d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y6051wKqLtrZExtuVQWe4N3S3w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Automatas">
+    <configuration name="Automatas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automatas" />
+      <module name="project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lector" />
+      <module name="project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PruebaApp" />
+      <module name="project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Automatas" />
+        <item itemvalue="Application.Lector" />
+        <item itemvalue="Application.PruebaApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e73a8f9-a2e0-4bec-9b90-0e32c2a3d3d1" name="Default Changelist" comment="" />
+      <created>1582247550061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582247550061</updated>
+      <workItem from="1582247553117" duration="1454000" />
+      <workItem from="1582323776710" duration="1251000" />
+      <workItem from="1582326492565" duration="1401000" />
+      <workItem from="1582744999401" duration="564000" />
+      <workItem from="1582745580990" duration="50000" />
+      <workItem from="1582745644020" duration="1622000" />
+      <workItem from="1582749095010" duration="2024000" />
+      <workItem from="1582755025964" duration="5761000" />
+      <workItem from="1582813111568" duration="9269000" />
+      <workItem from="1582830271007" duration="1423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="848" height="677" key="#Project_Structure" timestamp="1582247692041">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="848" height="677" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1582247692041" />
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582326444172">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582326444172" />
+    <state width="534" height="902" key="GridCell.Tab.0.bottom" timestamp="1582828722967">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="534" height="902" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1582828722967" />
+    <state width="534" height="902" key="GridCell.Tab.0.center" timestamp="1582828722966">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="534" height="902" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1582828722966" />
+    <state width="534" height="902" key="GridCell.Tab.0.left" timestamp="1582828722966">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="534" height="902" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1582828722966" />
+    <state width="534" height="902" key="GridCell.Tab.0.right" timestamp="1582828722967">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="534" height="902" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1582828722967" />
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom" timestamp="1582819830441">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1582819830441" />
+    <state width="1874" height="344" key="GridCell.Tab.1.center" timestamp="1582819830440">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1582819830440" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left" timestamp="1582819830439">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1582819830439" />
+    <state width="1874" height="344" key="GridCell.Tab.1.right" timestamp="1582819830440">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1582819830440" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1582745960660">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1582745960660" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582247559897">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582247559897" />
+    <state x="704" y="425" width="714" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582745183123">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="704" y="425" width="714" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582745183123" />
+  </component>
+</project>
